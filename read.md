@@ -2,7 +2,8 @@
 
 **Nombre:** Carlos Andrés Torres López 
 **Código:** A00141804 
-**Github URL:** https://github.com/candrelopez/so-workshop2/tree/A00141804
+**Github URL:** https://github.com/candrelopez/so-workshop2
+
 
 ## Descripción
 
