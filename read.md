@@ -1,7 +1,7 @@
 # Taller 2
 
 **Nombre:** Carlos Andrés Torres López 
-**Código:** A00141804 
+**Código:** A00141804   
 **Github URL:** https://github.com/candrelopez/so-workshop2
 
 
